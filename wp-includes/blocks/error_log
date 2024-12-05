@@ -1,0 +1,24 @@
+[21-Jun-2024 04:22:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php on line 8
+[14-Jul-2024 12:38:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php on line 8
+[28-Jul-2024 05:14:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php on line 8
+[20-Aug-2024 00:20:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php on line 8
+[23-Sep-2024 08:19:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php on line 8
+[02-Oct-2024 11:11:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rivingtonmusic/public_html/wp-includes/blocks/index.php on line 8

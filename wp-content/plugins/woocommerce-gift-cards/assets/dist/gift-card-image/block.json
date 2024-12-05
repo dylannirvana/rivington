@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "woocommerce-gift-cards/gift-card-image-field",
+  "version": "0.1.0",
+  "title": "Gift Card Image Field",
+  "category": "widgets",
+  "icon": "flag",
+  "description": "Gift Card Image Field",
+  "attributes": {
+    "__editorContent": {
+      "type": "string",
+      "__experimentalRole": "content"
+    }
+  },
+  "supports": {
+    "html": false,
+    "inserter": false
+  },
+  "textdomain": "woocommerce-gift-cards",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "usesContext": [
+    "postType"
+  ]
+}

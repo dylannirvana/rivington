@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 2.1.3//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rivington Music Rehearsal Studios
+X-ORIGINAL-URL:http://wordpress-1331631-4958390.cloudwaysapps.com/
+X-WR-CALDESC:Bookings from Rivington Music Rehearsal Studios
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTEND:20240908T130000
+UID:wc_bookings_17842
+DTSTAMP:20240907T175503
+LOCATION:
+DESCRIPTION:Resource #552 - Solo Drum\n\n
+URL;VALUE=URI:https://wordpress-1331631-4958390.cloudwaysapps.com/my-account/view-order/17843/
+SUMMARY:#17842 - Book a Studio
+DTSTART:20240908T120000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "woocommerce-gift-cards/days-to-expire-field",
+  "version": "0.1.0",
+  "title": "Days to Expire Field",
+  "category": "widgets",
+  "icon": "flag",
+  "description": "Days to Expire Field",
+  "attributes": {
+    "__editorContent": {
+      "type": "string",
+      "__experimentalRole": "content"
+    }
+  },
+  "supports": {
+    "html": false,
+    "inserter": false
+  },
+  "textdomain": "woocommerce-gift-cards",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "usesContext": [
+    "postType"
+  ]
+}

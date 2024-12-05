@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .pisol-container{
+   padding:10px;
+ }
+
+ .pisol-label{
+    background:#ccc;
+    color:#000;
+    padding:10px;
+    margin-bottom:20px;
+    margin-top:20px;
+ }
+
+ .pisol-mt{
+   margin-top:10px;
+ }
+
+ .pisol-container .select2{
+   margin-bottom:20px;
+   float:none !important;
+ }
+
+.select2-container {
+  width: 70% !important; /* Adjust width as needed */
+}

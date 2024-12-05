@@ -1,0 +1,330 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Add coupon by link / URL coupons for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-15 10:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-6.0.1\n"
+"X-Domain: add-coupon-by-link-woocommerce"
+
+#. Name of the plugin
+msgid "Add coupon by link / URL coupons for Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adding coupons by url, so user can directly get coupon applied when they "
+"visit a link"
+msgstr ""
+
+#: admin/class-storecredit.php:291
+msgid "as store credit"
+msgstr ""
+
+#: admin/coupon-options.php:12
+msgid "Auto add products (for URL coupon)"
+msgstr ""
+
+#: admin/class-reporting.php:67
+msgid "Click to view list of orders"
+msgstr ""
+
+#: admin/option.php:42
+msgid ""
+"Coupon code key e.g: <b>?apply_coupon=[coupon code]</b>, it should not have "
+"blank space"
+msgstr ""
+
+#: admin/class-category-option.php:16 admin/class-category-option.php:30
+#: admin/class-product-option.php:25
+msgid "Coupon code to apply"
+msgstr ""
+
+#: public/message.php:9 public/message.php:31
+msgid ""
+"Coupon has ben added it will be applied once coupon conditions are satisfied"
+msgstr ""
+
+#: admin/qr-code.php:16
+msgid "Coupon QR Code"
+msgstr ""
+
+#: admin/option.php:44 admin/partials/message.php:9
+msgid ""
+"Coupon saved in your session, it will be applied once coupon condition "
+"satisfied"
+msgstr ""
+
+#: admin/class-product-option.php:14
+msgid "Coupon to apply"
+msgstr ""
+
+#: public/message.php:22
+msgid "Coupon will be applied once coupon conditions are satisfied"
+msgstr ""
+
+#: admin/option.php:46 admin/partials/message.php:17
+msgid "Coupon will be applied once its conditions are satisfied"
+msgstr ""
+
+#: public/partials/store-credit.php:5 public/partials/store-credit.php:28
+msgid "Credit given"
+msgstr ""
+
+#: public/partials/store-credit.php:6 public/partials/store-credit.php:31
+msgid "Credit remaining"
+msgstr ""
+
+#: admin/qr-code.php:27
+msgid "Download Qr Code"
+msgstr ""
+
+#: admin/option.php:40
+msgid "Enable plugin"
+msgstr ""
+
+#: admin/option.php:40
+msgid "Enable url coupon plugin"
+msgstr ""
+
+#: admin/partials/coupon-attribute-fields.php:7
+msgid "Exclude Product Attribute"
+msgstr ""
+
+#: public/class-emailrestriction.php:35
+msgid "Excluded emails"
+msgstr ""
+
+#: public/class-userroles.php:64
+msgid "Excluded user role"
+msgstr ""
+
+#: public/partials/store-credit.php:7 public/partials/store-credit.php:34
+msgid "Expiry date"
+msgstr ""
+
+#: admin/option.php:48
+msgid "Hide coupon option on cart page"
+msgstr ""
+
+#: admin/option.php:50
+msgid "Hide coupon option on checkout page"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://piwebsolution.com"
+msgstr ""
+
+#: admin/option.php:46
+msgid ""
+"If coupon is conditional coupon it will apply when condition satisfied, so "
+"you can show this message and describe what they have to do to meat coupon "
+"condition"
+msgstr ""
+
+#: admin/option.php:44 admin/partials/message.php:8
+#: admin/partials/message.php:16
+msgid ""
+"If coupon is conditional coupon it will apply when condition satisfied, till "
+"that time coupon is saved in session and user is shown a message that coupon "
+"is saved in the session"
+msgstr ""
+
+#: public/class-userroles.php:65
+msgid ""
+"If you want to exclude certain group from using the coupon, then you can add "
+"that role here"
+msgstr ""
+
+#: public/class-paymentmethod.php:42
+msgid ""
+"If you want to restrict the coupon to specific payment methods, select them "
+"from the list."
+msgstr ""
+
+#: public/class-userroles.php:49
+msgid ""
+"If you want to restrict the coupon to specific user role, then you can add "
+"that role here"
+msgstr ""
+
+#: admin/partials/coupon-attribute-fields.php:2
+msgid "Included Product Attribute"
+msgstr ""
+
+#: admin/class-category-option.php:18 admin/class-category-option.php:33
+msgid ""
+"Insert the coupon code to apply when this product is added to the cart. You "
+"can add multiple coupon codes by separating them with comma(,)"
+msgstr ""
+
+#: admin/class-product-option.php:28
+msgid ""
+"Insert the coupon code to apply when this product is added to the cart. You "
+"can add multiple coupon codes by separating them with comma(,)."
+msgstr ""
+
+#: admin/class-message.php:25
+msgid "Message"
+msgstr ""
+
+#: admin/option.php:46
+msgid "Message shown when coupon condition are not yet met"
+msgstr ""
+
+#: admin/option.php:44
+msgid "Message shown when coupon is added in user session"
+msgstr ""
+
+#: admin/partials/message.php:4 admin/partials/message.php:12
+msgid ""
+"Message shown when coupon is added in user session (If left blank global "
+"message will be used)"
+msgstr ""
+
+#: public/class-emailrestriction.php:36
+msgid "No restrictions"
+msgstr ""
+
+#: public/class-paymentmethod.php:41
+msgid "Payment methods"
+msgstr ""
+
+#. Author of the plugin
+msgid "PI Websolution"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "piwebsolution.com"
+msgstr ""
+
+#: add-coupon-by-link-woocommerce.php:40
+msgid ""
+"Please install and activate WooCommerce plugin, without that this plugin "
+"cant work"
+msgstr ""
+
+#: admin/class-coupon-attribute-restriction.php:29
+msgid "Product Attribute"
+msgstr ""
+
+#: admin/coupon-options.php:26
+msgid ""
+"Products that will be auto added to the cart when user visit URL coupon link"
+msgstr ""
+
+#: admin/class-storecredit.php:290
+msgid "Refund"
+msgstr ""
+
+#: admin/qr-code.php:29
+msgid "Save coupon then QR code will be generated"
+msgstr ""
+
+#: admin/coupon-options.php:13
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: admin/option.php:60
+msgid "Select page"
+msgstr ""
+
+#: public/class-emailrestriction.php:37
+msgid ""
+"Specify the email addresses you want to exclude from order placement checks. "
+"Separate multiple addresses with commas. You can also use an asterisk (*) as "
+"a wildcard to match parts of an email address. For instance, \"*@gmail.com\" "
+"will exclude all Gmail addresses. E.g: abc@yahoo.com, *@gmail.com"
+msgstr ""
+
+#: admin/class-storecredit.php:50
+msgid "Store Credit"
+msgstr ""
+
+#: public/class-myaccount.php:31
+msgid "Store credit"
+msgstr ""
+
+#: admin/class-storecredit.php:224
+msgid "Store Credit Balance"
+msgstr ""
+
+#: public/partials/store-credit.php:4 public/partials/store-credit.php:22
+msgid "Store credit code"
+msgstr ""
+
+#: admin/class-storecredit.php:367
+#, php-format
+msgid "Store credit coupon %s of %s amount was for email id %s as a refund"
+msgstr ""
+
+#: admin/class-storecredit.php:365
+#, php-format
+msgid "Store credit coupon given as a refund for order %s"
+msgstr ""
+
+#: admin/class-storecredit.php:349
+msgid "Store credit coupon given as refund #"
+msgstr ""
+
+#: admin/class-storecredit.php:263
+#, php-format
+msgid "Store credit left after this: %s"
+msgstr ""
+
+#: admin/class-storecredit.php:236
+msgid "Store credit remaining:"
+msgstr ""
+
+#: public/class-paymentmethod.php:86
+msgid "This coupon is not valid for the selected payment method."
+msgstr ""
+
+#: public/class-emailrestriction.php:134
+msgid "This coupon is not valid for you."
+msgstr ""
+
+#: public/class-userroles.php:140 public/class-userroles.php:176
+msgid "This coupon is not valid for your user role."
+msgstr ""
+
+#: admin/class-storecredit.php:239
+msgid "This is not a store credit coupon."
+msgstr ""
+
+#: includes/pisol.class.form.php:412
+msgid "Upload image"
+msgstr ""
+
+#: admin/menu.php:18 admin/menu.php:19
+msgid "URL Coupon"
+msgstr ""
+
+#: admin/option.php:42
+msgid "URL coupon key"
+msgstr ""
+
+#: admin/class-reporting.php:27
+msgid "Used in orders"
+msgstr ""
+
+#: public/class-userroles.php:48
+msgid "User role"
+msgstr ""
+
+#: public/partials/store-credit.php:41 public/partials/store-credit.php:42
+msgid "You dont have any store credit"
+msgstr ""
+
+#: public/class-userroles.php:123 public/class-userroles.php:163
+msgid "You must be logged in in order to use this coupon code"
+msgstr ""

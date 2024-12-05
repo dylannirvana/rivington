@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 2.1.6//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rivington Music Rehearsal Studios
+X-ORIGINAL-URL:https://wordpress-1331631-4958390.cloudwaysapps.com/
+X-WR-CALDESC:Bookings from Rivington Music Rehearsal Studios
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTEND:20241020T180000
+UID:wc_bookings_21701
+DTSTAMP:20241019T150018
+LOCATION:
+DESCRIPTION:Resource #562 - Studio 02\n\n
+URL;VALUE=URI:https://wordpress-1331631-4958390.cloudwaysapps.com/my-account/view-order/21702/
+SUMMARY:#21701 - Book a Studio
+DTSTART:20241020T150000
+END:VEVENT
+END:VCALENDAR

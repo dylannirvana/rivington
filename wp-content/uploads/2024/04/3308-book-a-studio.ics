@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 2.0.9//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rivington Music Rehearsal Studios
+X-ORIGINAL-URL:https://projects.appnet.com/rivingtonmusic/
+X-WR-CALDESC:Bookings from Rivington Music Rehearsal Studios
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTEND:20240429T150000
+UID:wc_bookings_3308
+DTSTAMP:20240428T231156
+LOCATION:
+DESCRIPTION:Resource #557 - Studio 08\n\n
+URL;VALUE=URI:https://projects.appnet.com/rivingtonmusic/my-account/view-order/3309/
+SUMMARY:#3308 - Book a Studio
+DTSTART:20240429T140000
+END:VEVENT
+END:VCALENDAR
